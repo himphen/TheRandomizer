@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">the Randomizer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="enteritem">請輸入你的項目(以半形或全形逗號分隔)</string>
+    <string name="enteritem_field">例如：紅色,藍色,粉紅色</string>
+    <string name="submit">Randomize!!</string>
+    <string name="result_title">the Randomizer 為你選擇了：</string>
+    <string name="result"></string>
+    <string name="resultHint">文字已複製到剪貼簿</string>
+    <string name="ui_cancel">取消</string>
+    <string name="setting">設定</string>
+    <string name="report">回報問題</string>
+    <string name="about">關於</string>
+    <string name="clear">清除列表</string>
+
+    <string name="about_message">版權所有© Hibernate\n\n此程式純粹提供實用功能,請勿對號入座。</string>
+    <string name="about_navbtn">確定</string>
+    <string name="about_posbtn">前往個人網頁</string>
+
+    <string name="add_item_button">加入預設/清除項目</string>
+    <string name="add_item_title">請選擇你的項目類別</string>
+    <string name="add_line_title">你想加入哪一欄位？</string>
+    <string name="clear_netbtn">清除文字</string>
+    <string name="clear_line_title">你想清除哪一欄位？</string>
+
+    <string name="exit_title">注意</string>
+    <string name="exit_message">你是否確定要離開本程式？</string>
+    <string name="exit_navbtn">不離開</string>
+    <string name="exit_posbtn">確定</string>
+
+    <string name="record_title">點選複製</string>
+    <string name="record_netbtn">清除紀錄</string>
+    <string name="record_posbtn">複製至剪貼簿</string>
+    <string name="record_button">瀏覽紀錄</string>
+    <string name="record_confirm">複製成功</string>
+    <string name="record_clear">清除成功</string>
+
+    <string-array name="demo">
+        <item>@string/string_color</item>
+        <item>@string/string_transport</item>
+        <item>@string/string_cook</item>
+        <item>@string/string_country</item>
+        <item>@string/string_fruit</item>
+        <item>@string/string_animal</item>
+        <item>@string/string_meat</item>
+        <item>@string/string_vegetable</item>
+        <item>@string/string_party</item>
+        <item>@string/string_partyaction</item>
+        <item>@string/string_people</item>
+        <item>@string/string_peopleaction</item>
+        <item>@string/string_hkgusers</item>
+        <item>@string/string_mobile</item>
+        <item>@string/string_adj</item>
+        <item>@string/string_popstarm</item>
+        <item>@string/string_popstarf</item>
+        <item>@string/string_action1</item>
+        <item>@string/string_maindinner</item>
+        <item>@string/string_fish</item>
+        <item>@string/string_size</item>
+    </string-array>
+
+    <string name="string_color">紅,橙,黃,綠,青,藍,紫,灰,白,黑,啡,粉紅,粉藍,透明</string>
+    <string name="string_transport">港鐵,巴士,小巴,的士,電車,單車,私家車,渡輪,Uber,Van仔</string>
+    <string name="string_cook">炒,焗,煎,蒸,炸,煮,烤,炭燒,炆,燉,煲</string>
+    <string name="string_country">美國,英國,中國,台灣,法國,日本,德國,韓國,俄羅斯,意大利,泰國</string>
+    <string name="string_fruit">蘋果,蕉,橙,芒果,西瓜,士多啤梨,荔枝,檸檬,榴槤,豆腐</string>
+    <string name="string_animal">牛,豬,雞,羊,魚,鴨,蝦,鼠,狗,貓,雀,鯨魚,鱷魚,企鵝,樹熊,三文魚,墨魚</string>
+    <string name="string_meat">肉,骨,柳,皮,尾,腳,扒,翼,腿,頭,腦,耳,丸,腩,肚,片,掌,潤,腸,屁股</string>
+    <string name="string_vegetable">茄子,西蘭花,白菜,生菜,蕃茄,西芹,蘿蔔,南瓜,苦瓜,冬菇,白菜,菜心,四季豆</string>
+    <string name="string_party">泛民,民主黨,公民黨,社民連,職工盟,街工,新民主同盟,民協,工黨,人民力量,民建聯,自由黨,建制派,新民黨,工聯會,公民力量,民陣,香港眾志,青年新政</string>
+    <string name="string_partyaction">成功爭取,無法爭取,成功動議,無法動議,成功召喚,無法否認,無法認同</string>
+    <string name="string_people">哥哥,妹妹,鄰居的狗,我家小貓,爸爸,媽媽,老公,老闆,老師,樓下看更,對面女孩,我自己,MK仔</string>
+    <string name="string_peopleaction">亞視執笠,BT合法化,一齊打飛機,特首下台,結束一黨專政,北極有企鵝,上高登,取消世界末日,香港獨立,3310爆炸,港女D CUP化,港鐵減價,六四無死人,拉布戰成功,李氏力場維修,被失蹤</string>
+    <string name="string_hkgusers">腦魔,高登ADMIN,林祖舜,賭撚,DOM生,瓊姐,高登女夜鬼,薛家燕,送禮勤,馬德鐘,劉爵士,燦神</string>
+    <string name="string_mobile">SAMSUNG,APPLE,HTC,NOKIA,MOTO,SONY,Google,微軟,大陸山寨品牌,可口可樂,李嘉誠集團</string>
+    <string name="string_adj">是最好的,是不能取代的,和屎無分別,很美</string>
+    <string name="string_popstarm">陳奕迅,方大同,張繼聰,周柏豪,張敬軒,古巨基,陳柏宇,李克勤,劉德華,林峰,劉浩龍,梁漢文,側田,許志安,陳偉霆,方力申,衛蘭,關楚耀,小肥,謝霆鋒,陸永,C君</string>
+    <string name="string_popstarf">謝安琪,容祖兒,楊千嬅,何韻詩,薜凱琪,蔡卓妍,鐘欣桐,鐘舒漫,泳兒,吳雨霏,鄧麗欣,胡琳,鄭融,梁詠琪,鄧紫琪,傅穎,楊愛瑾,關心妍,江若琳</string>
+    <string name="string_action1">踢,鬧,錫,打,愛,玩,唱衰,偷窺,食左,嬲,救,羸,玩殘,多謝,愛上,炒,打劫,蝦,老凹,呃,大嗌：,改名做,輸左比,車死,女女女,餵,謀殺,整蠱,唔識,禁錮,綁架</string>
+    <string name="string_maindinner">粥,粉,麵,飯,拉麵,河粉,瀨粉,米粉,意粉,通粉,生麵,油麵,薯蓉,米線,壽司,烏冬,pizza,拉麵,麵包,蛋糕,龜苓膏,漢堡包,熱狗,泡飯,魚麵,壽麵,雪糕,月餅,湯丸,沙律</string>
+    <string name="string_fish">三文魚,墨魚,油甘魚,吞拿魚,鮑魚,蠔,八爪魚,鯨魚,海星,海馬,海膽,鯇魚,海鰻</string>
+    <string name="string_size">大,中,小,迷你,超迷你,正方形,圓形,長方形,心形,三角形,菱形</string>
+
+
+</resources>

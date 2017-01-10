@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="catalog">
+        <item>顏色</item>
+        <item>交通工具</item>
+        <item>煮食方法</item>
+        <item>國家</item>
+        <item>水果</item>
+        <item>動物</item>
+        <item>肉類</item>
+        <item>蔬菜</item>
+        <item>政黨</item>
+        <item>成功爭取</item>
+        <item>普通人物</item>
+        <item>社會大事</item>
+        <item>高登名人</item>
+        <item>品牌</item>
+        <item>香港男歌手</item>
+        <item>香港女歌手</item>
+        <item>動作</item>
+        <item>魚類</item>
+        <item>主食</item>
+        <item>形狀/大小</item>
+    </string-array>
+    <string-array name="line">
+        <item>第一個</item>
+        <item>第二個</item>
+        <item>第三個</item>
+    </string-array>
+
+</resources>
